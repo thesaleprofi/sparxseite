@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "generatedAt": "2025-08-25T06:27:24.860339Z",
+  "items": [
+    {
+      "id": "demo-ebay-1",
+      "title": "USB-C Hub 8-in-1",
+      "description": "Aluminium hub with HDMI 4K and PD 100W",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop",
+      "price": 19.99,
+      "currency": "\u20ac",
+      "url": "https://example.com/affiliate?src=ebay",
+      "source": "eBay",
+      "createdAtISO": "2025-08-25T06:27:24.860352Z"
+    }
+  ]
+}
